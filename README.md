@@ -2,6 +2,8 @@
 
 Data science code samples & ML experiments that could be useful for code re-use 
 
+Follow me on LinkedIn: https://www.linkedin.com/in/cartersocha/
+
 ### Python Visualization Examples 
 Seaborn & 3d Graphic Samples: https://github.com/aurelius9/code-collection/blob/master/Seaborn.ipynb
 
@@ -24,5 +26,3 @@ Custom Text Categorerizer & Entity Recognition Tutorial: https://github.com/aure
 
 ### Azure Examples
 AzureMachineLearningService Basic Experiment: https://github.com/aurelius9/code-collection/blob/master/Azure%20Machine%20Learning%20Example.ipynb
-
-Follow me on LinkedIn: https://www.linkedin.com/in/cartersocha/

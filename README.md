@@ -14,6 +14,8 @@ End to End Convolutional Neural Network using NumPy: https://github.com/aurelius
 
 Base Keras CNN for Kaggle Cancer Competition: https://github.com/aurelius9/code-collection/blob/master/Kaggle%20CNN%20Cancer%20Benchmark%2095%25%20accuracy.ipynb
 
+Transfer Learning using VGG16 & Keras: https://github.com/aurelius9/code-collection/blob/master/Transfer%20Learning%20-%20VGG.ipynb
+
 ### XGBoost Package 
 PlayerUnknownBattleGrounds Experiment: https://github.com/aurelius9/code-collection/blob/master/PUBG.ipynb
 
